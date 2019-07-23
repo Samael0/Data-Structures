@@ -1,0 +1,5 @@
+1.) Command line javac each .java file as normal
+2.) Everything is ran from the Main file
+
+-VScode was used
+-Tested on multiple computers
